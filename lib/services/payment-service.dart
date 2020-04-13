@@ -49,7 +49,7 @@ class StripeService {
         );
       } else {
         return new StripeTransactionResponse(
-          message: 'Transaction failed}',
+          message: 'Transaction failed',
           success: false
         );
       }
@@ -85,7 +85,7 @@ class StripeService {
         );
       } else {
         return new StripeTransactionResponse(
-          message: 'Transaction failed}',
+          message: 'Transaction failed',
           success: false
         );
       }
@@ -125,7 +125,7 @@ class StripeService {
       );
       return jsonDecode(response.body);
     } catch (err) {
-      print('err charing user: ${err.toString()}');
+      print('err charging user: ${err.toString()}');
     }
     return null;
   }
