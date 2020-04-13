@@ -30,6 +30,7 @@ dev_dependencies:
     sdk: flutter
   stripe_payment: ^1.0.7
   http: ^0.11.3+17
+  progress_dialog: ^1.2.2
 
 
 # For information on the generic Dart part of this file, see the
