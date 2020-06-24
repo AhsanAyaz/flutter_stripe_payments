@@ -1,6 +1,9 @@
-# flutter_stripe_payments
+# Flutter Stripe Payments
 
-A new Flutter project.
+A flutter project demonstrating [STRIPE](http://stripe.com/docs/api/) implementation with Flutter.
+
+I have a complete series of tutorials on integrating Stripe with Flutter. Have a look:
+https://www.youtube.com/watch?v=VOtmM9i25R4&list=PL2sQdFoGnLIgvo5DviCeCPZnfeVbCrRsV
 
 ## Getting Started
 
